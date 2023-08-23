@@ -43,6 +43,8 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 ### Schedule
 
+**TIME AND LOCATION TBD**
+
 | date        | topic                                                    | speaker |
 |-------------|----------------------------------------------------------|---------|
 |  8 Sep 2023 | Introduction to Gravitational Wave Astrophysics          | Maya    |

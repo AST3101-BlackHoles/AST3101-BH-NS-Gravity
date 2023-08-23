@@ -1,7 +1,5 @@
 # (AST3101) Black Holes and Neutron Stars : Gravity
 
-[[_TOC_]]
-
 ---
 
 ## Instructors

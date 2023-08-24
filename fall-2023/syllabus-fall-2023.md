@@ -45,30 +45,30 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 **TIME AND LOCATION TBD**
 
-| date        | topic                                                    | speaker |
-|-------------|----------------------------------------------------------|---------|
-|  8 Sep 2023 | Introduction to Gravitational Wave Astrophysics          | Maya    |
-|             | Formation Channels for compact binary mergers            | Maya    |
-|             | Homework 1 assigned                                      |         |
-| 15 Sep 2023 | Linearized Gravity and Gravitational Waves               | Reed    |
-|             | Gravitational Wave Detector Physics                      | Reed    |
-|             | Homework 1 due                                           |         |
-|             | Homework 2 assigned                                      |         |
-| 22 Sep 2023 | An introduction to probability and time-series analysis	 | Reed    |
-|             | Gravitational-wave search techniques                     | Reed    |
-|             | Homework 2 due                                           |         |
-|             | Homework 3 assigned                                      |         |
-| 29 Sep 2023 | Measuring the properties of merging binaries             | Maya    |
-|             | Population inference with catalogs of noisy observations | Maya    |
-|             | Homework 3 due                                           |         |
-|             | Homework 4 assigned                                      |         |
-|  6 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	 | Maya    |
-|             | Constraining cosmology with merging binaries             | Maya    |
-|             | Homework 4 due                                           |         |
-|             | Homework 5 assigned                                      |         |
-| 13 Oct 2023 | Electromagnetic Observations of Black Holes              | Maya    |
-|             | Future prospects and GW sources besides binaries         | Maya    |
-|             |	Homework 5 due                                           |         |
+| date        | topic                                                    | Notes        |
+|-------------|----------------------------------------------------------|--------------|
+| 15 Sep 2023 | Introduction to Gravitational Wave Astrophysics          | Maya         |
+|             | Formation Channels for compact binary mergers            | Maya         |
+|             | [Homework 1](homework-1.md) assigned                     |              |
+| 22 Sep 2023 | Linearized Gravity and Gravitational Waves               | Reed         |
+|             | Gravitational Wave Detector Physics                      | Reed         |
+|             | [Homework 1](homework-1.md) due                          | 20% of grade |
+|             | [Homework 2](homework-2.md) assigned                     |              |
+| 29 Sep 2023 | An introduction to probability and time-series analysis	 | Reed         |
+|             | Gravitational-wave search techniques                     | Reed         |
+|             | [Homework 2](homework-2.md) due                          | 20% of grade |
+|             | [Homework 3](homework-3.md) assigned                     |              |
+|  6 Oct 2023 | Measuring the properties of merging binaries             | Maya         |
+|             | Population inference with catalogs of noisy observations | Maya         |
+|             |                                                          |              |
+|             |                                                          |              |
+| 13 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	 | Maya         |
+|             | Constraining cosmology with merging binaries             | Maya         |
+|             | [Homework 3](homework-3.md) due                          | 30% of grade |
+|             | [Homework 4](homework-4.md) assigned                     |              |
+| 20 Oct 2023 | Electromagnetic Observations of Black Holes              | Maya         |
+|             | Future prospects and GW sources besides binaries         | Maya         |
+|             |	[Homework 4](homework-4.md) due                          | 30% of grade |
 
 ---
 

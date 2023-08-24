@@ -1,7 +1,5 @@
 # Homework Assignment 3
 
----
-
   * 30% of final grade
   * assigned 29 Sep 2023
   * due 13 Oct 2023

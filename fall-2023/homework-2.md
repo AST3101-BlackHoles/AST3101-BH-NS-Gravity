@@ -1,7 +1,5 @@
 # Homework Assignment 2
 
----
-
   * 20% of final grade
   * assigned 22 Sep 2023
   * due 29 Sep 2023

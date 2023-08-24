@@ -60,8 +60,6 @@ Lecturers will be available during Office Hours once per week and may be contact
 |             | [Homework 3](homework-3.md) assigned                     |              |
 |  6 Oct 2023 | Measuring the properties of merging binaries             | Maya         |
 |             | Population inference with catalogs of noisy observations | Maya         |
-|             |                                                          |              |
-|             |                                                          |              |
 | 13 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	 | Maya         |
 |             | Constraining cosmology with merging binaries             | Maya         |
 |             | [Homework 3](homework-3.md) due                          | 30% of grade |

@@ -1,5 +1,7 @@
 # (AST3101) Black Holes and Neutron Stars : Gravity
 
+We will use a [GitHub Classroom](https://classroom.github.com/classrooms/143024058-ast3101-blackholes-fall2023) to manage assignments. To use our [classroom](https://classroom.github.com/classrooms/143024058-ast3101-blackholes-fall2023), you must have a GitHub account. They are free, and you can [sign-up here](https://github.com/signup).
+
 ---
 
 ## Instructors
@@ -45,28 +47,28 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 **TIME AND LOCATION TBD**
 
-| date        | topic                                                    | Notes        |
-|-------------|----------------------------------------------------------|--------------|
-| 15 Sep 2023 | Introduction to Gravitational Wave Astrophysics          | Maya         |
-|             | Formation Channels for compact binary mergers            | Maya         |
-|             | [Homework 1](homework-1.md) assigned                     |              |
-| 22 Sep 2023 | Linearized Gravity and Gravitational Waves               | Reed         |
-|             | Gravitational Wave Detector Physics                      | Reed         |
-|             | [Homework 1](homework-1.md) due                          | 20% of grade |
-|             | [Homework 2](homework-2.md) assigned                     |              |
-| 29 Sep 2023 | An introduction to probability and time-series analysis	 | Reed         |
-|             | Gravitational-wave search techniques                     | Reed         |
-|             | [Homework 2](homework-2.md) due                          | 20% of grade |
-|             | [Homework 3](homework-3.md) assigned                     |              |
-|  6 Oct 2023 | Measuring the properties of merging binaries             | Maya         |
-|             | Population inference with catalogs of noisy observations | Maya         |
-| 13 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	 | Maya         |
-|             | Constraining cosmology with merging binaries             | Maya         |
-|             | [Homework 3](homework-3.md) due                          | 30% of grade |
-|             | [Homework 4](homework-4.md) assigned                     |              |
-| 20 Oct 2023 | Electromagnetic Observations of Black Holes              | Maya         |
-|             | Future prospects and GW sources besides binaries         | Maya         |
-|             |	[Homework 4](homework-4.md) due                          | 30% of grade |
+| date        | topic                                                          | Notes        |
+|-------------|----------------------------------------------------------------|--------------|
+| 15 Sep 2023 | Introduction to Gravitational Wave Astrophysics                | Maya         |
+|             | Formation Channels for compact binary mergers                  | Maya         |
+|             | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) assigned | |
+| 22 Sep 2023 | Linearized Gravity and Gravitational Waves                     | Reed         |
+|             | Gravitational Wave Detector Physics                            | Reed         |
+|             | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) due      | 20% of grade |
+|             | [Homework 2](https://classroom.github.com/a/mmJbRP7n) assigned | |
+| 29 Sep 2023 | An introduction to probability and time-series analysis	       | Reed         |
+|             | Gravitational-wave search techniques                           | Reed         |
+|             | [Homework 2](https://classroom.github.com/a/mmJbRP7n) due      | 20% of grade |
+|             | [Homework 3](https://classroom.github.com/a/FWEkl9vD) assigned | |
+|  6 Oct 2023 | Measuring the properties of merging binaries                   | Maya         |
+|             | Population inference with catalogs of noisy observations       | Maya         |
+| 13 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	       | Maya         |
+|             | Constraining cosmology with merging binaries                   | Maya         |
+|             | [Homework 3](https://classroom.github.com/a/FWEkl9vD) due      | 30% of grade |
+|             | [Homework 4](https://classroom.github.com/a/L4nihEzg) assigned | |
+| 20 Oct 2023 | Electromagnetic Observations of Black Holes                    | Maya         |
+|             | Future prospects and GW sources besides binaries               | Maya         |
+|             |	[Homework 4](https://classroom.github.com/a/L4nihEzg) due      | 30% of grade |
 
 ---
 

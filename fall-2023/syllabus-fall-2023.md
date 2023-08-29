@@ -13,7 +13,7 @@ We will use a [GitHub Classroom](https://classroom.github.com/classrooms/1430240
 
 ## Course Description
 
-This course will cover many topics in the astrophysics of compact binaries as viewed with Gravitational waves (GWs) and other multi-messenger phenomena. Students will learn the basics of compact binary evolutions, black hole (BH) and neutron star (NS) phenomenology, and observational signatures of GW coalescences. Students will also learn modern data analysis techniques, including time-domain analysis, Wiener filters and maximum likelihood searches, and (hierarchical) Bayesian inference with applications to GW population inference, including cosmology and the NS equation of state.
+This course will cover many topics in the astrophysics of compact binaries as viewed with Gravitational waves (GWs) and other multi-messenger phenomena. Students will learn the basics of compact binary evolutions, black hole (BH) and neutron star (NS) phenomenology, and observational signatures of GW coalescences. Students will also learn modern data analysis techniques, including time-domain analysis, matched filters and maximum likelihood searches, and (hierarchical) Bayesian inference with applications to GW population inference, including cosmology and the NS equation of state.
 
 There are no official prerequisites for this course, but students will benefit from familiarity with
 

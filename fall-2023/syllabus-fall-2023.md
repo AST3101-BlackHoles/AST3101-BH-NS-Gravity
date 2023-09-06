@@ -54,8 +54,8 @@ Lectures will be held on **Fridays from 2:10 - 4:00pm in AB113**.
 |             | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) assigned | |
 | 22 Sep 2023 | Linearized Gravity and Gravitational Waves                     | Reed         |
 |             | Gravitational Wave Detector Physics                            | Reed         |
-|             | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) due      | 20% of grade |
 |             | [Homework 2](https://classroom.github.com/a/mmJbRP7n) assigned | |
+| 25 Sep 2023 | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) due      | 20% of grade |
 | 29 Sep 2023 | An introduction to probability and time-series analysis	       | Reed         |
 |             | Gravitational-wave search techniques                           | Reed         |
 |             | [Homework 2](https://classroom.github.com/a/mmJbRP7n) due      | 20% of grade |

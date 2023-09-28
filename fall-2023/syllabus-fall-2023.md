@@ -58,8 +58,8 @@ Lectures will be held on **Fridays from 2:10 - 4:00pm in AB113**.
 | 25 Sep 2023 | [Homework 1](https://classroom.github.com/a/P0ifk_Oj) due      | 20% of grade |
 | 29 Sep 2023 | An introduction to probability and time-series analysis	       | Reed         |
 |             | Gravitational-wave search techniques                           | Reed         |
-|             | [Homework 2](https://classroom.github.com/a/mmJbRP7n) due      | 20% of grade |
 |             | [Homework 3](https://classroom.github.com/a/FWEkl9vD) assigned | |
+|  2 Oct 2023 | [Homework 2](https://classroom.github.com/a/mmJbRP7n) due      | 20% of grade |
 |  6 Oct 2023 | Measuring the properties of merging binaries                   | Maya         |
 |             | Population inference with catalogs of noisy observations       | Maya         |
 | 13 Oct 2023 | Astrophysical lessons from GW and their EM counterparts	       | Maya         |
